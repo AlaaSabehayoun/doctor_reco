@@ -1,0 +1,11 @@
+name,specialty,hospital,address,city,fee_usd,rating,reviews_count,latitude,longitude,phone,email
+Dr Alice Smith,Cardiac Surgery;Surgery,City Hospital,10 Main St,Beirut,1800,4.7,34,33.8889,35.4955,+9617000000,alice@example.com
+Dr Bob James,Orthopedics,North Hospital,22 North Rd,Beirut,1500,4.3,12,33.8910,35.5010,+9617000001,bob@example.com
+Dr Cara Lee,General Surgery,Central Clinic,5 Central Ave,Tripoli,1200,4.5,18,34.4361,35.8496,+9617000002,cara@example.com
+Dr David Brown,Neurology,Westside Hospital,7 West St,Beirut,2000,4.8,40,33.8900,35.4930,+9617000003,david@example.com
+Dr Emma Wilson,Pediatrics,Children's Hospital,3 Kid St,Tripoli,1000,4.6,22,34.4300,35.8500,+9617000004,emma@example.com
+Dr Frank Taylor,Orthopedics,North Hospital,45 North Rd,Beirut,1700,4.2,15,33.8920,35.5020,+9617000005,frank@example.com
+Dr Grace Lee,Cardiology,City Hospital,12 Main St,Beirut,1900,4.9,50,33.8890,35.4960,+9617000006,grace@example.com
+Dr Henry King,Dermatology,Central Clinic,9 Central Ave,Tripoli,1200,4.4,20,34.4370,35.8505,+9617000007,henry@example.com
+Dr Irene Scott,ENT,East Hospital,15 East St,Beirut,1600,4.3,18,33.8850,35.4900,+9617000008,irene@example.com
+Dr John Miller,General Surgery,Central Clinic,6 Central Ave,Tripoli,1400,4.5,25,34.4350,35.8490,+9617000009,john@example.com
